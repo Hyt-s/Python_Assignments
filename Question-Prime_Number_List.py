@@ -25,4 +25,3 @@ def prime_list(n):
 
 prime_list(100)
 
-
