@@ -15,4 +15,3 @@ for i in range(1, 56):
     fibonacci.append(i)
 
 print(fibonacci)
-
