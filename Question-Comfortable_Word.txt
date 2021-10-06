@@ -32,7 +32,3 @@ right = set("yhnujmiklop")
 left = set("qazwsxedcrfvtgb")
 
 print(not (word.issubset(left) or word.issubset(right)))
-
-
-
-
